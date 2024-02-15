@@ -1,7 +1,7 @@
-# Github_Streak_get_back
+# Get your lost Github streaks back!
 This repository contains hwo you can easily get broken github streak back easily!
 
-Here is the yt tutorial video : https://youtu.be/_U52wzAJ2QE
+
 
 1. Install Git in your PC.
 2. Setup git for cloning repository.
